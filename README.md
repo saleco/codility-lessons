@@ -15,3 +15,6 @@ This is a list of lessons provided by Codility for programmers to train their al
 - [FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/)
 - [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/)
 
+### Counting Elements
+- [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
+
