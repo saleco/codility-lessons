@@ -1,4 +1,4 @@
-# Codility excercises tested with jUnit
+# Codility excercises tested with jUnit / Mockito
 
 This is a list of lessons provided by Codility for programmers to train their algorithms ability
 
