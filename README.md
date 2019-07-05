@@ -17,4 +17,5 @@ This is a list of lessons provided by Codility for programmers to train their al
 
 ### Counting Elements
 - [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/)
-
+- [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/)
+- [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/)
