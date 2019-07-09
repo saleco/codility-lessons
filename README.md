@@ -21,3 +21,6 @@ This is a list of lessons provided by Codility for programmers to train their al
 - [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) [PAINLESS] (Score 100%)
 - [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) [RESPECTABLE] (Score 77%)
 - [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) [RESPECTABLE] (Score 88%)
+
+### Perfix Sums
+- [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) [PAINLESS] (Score 100%)
